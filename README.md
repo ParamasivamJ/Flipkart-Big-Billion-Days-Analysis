@@ -198,12 +198,5 @@ This project showcased expert-level data engineering and analytics skills on Azu
 - Implementing real-time data ingestion and analysis pipelines.
 - Enhancing machine learning capabilities for more predictive insights.
 
----
-
-## Author
-
-**[Your Name]**  
-Data Engineer and Azure Enthusiast  
-Feel free to reach out for any questions or collaborations!
 
 ---
